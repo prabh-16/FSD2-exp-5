@@ -1,4 +1,4 @@
-23BIS70035 - PARTH KANSAL
+23BIS70061 - Prabhkirat Singh
 
 # Learning outcomes
 - Learnt about Lazy Loading in ReactJS
